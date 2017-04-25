@@ -1,0 +1,1 @@
+Assembly dili için , 16 bit asal çarpan.
